@@ -1,0 +1,15 @@
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\bin\Debug\net7.0\Terreno.exe
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\bin\Debug\net7.0\Terreno.deps.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\bin\Debug\net7.0\Terreno.runtimeconfig.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\bin\Debug\net7.0\Terreno.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\bin\Debug\net7.0\Terreno.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.csproj.AssemblyReference.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.AssemblyInfoInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.AssemblyInfo.cs
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.csproj.CoreCompileInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\refint\Terreno.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\Terreno.genruntimeconfig.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Terreno\Terreno\obj\Debug\net7.0\ref\Terreno.dll
